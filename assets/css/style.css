@@ -20,6 +20,10 @@ html, body {
   font-size: 75px;
 }
 
+.timer{
+  text-align: center;
+}
+
 .timer span::after {
   content: " : ";
 }
