@@ -18,8 +18,13 @@ html, body {
 .inside {
   font-weight: bold;
   font-size: 75px;
+  
+  /* Centrer verticalement le timer */
+  margin-top: 50vh;
+  transform: ;
 }
 
+/* Centrer horizontalement le timer */
 .timer{
   text-align: center;
 }
