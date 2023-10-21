@@ -21,7 +21,7 @@ html, body {
   
   /* Centrer verticalement le timer */
   margin-top: 50vh;
-  transform: ;
+  transform: translateY(-50%);
 }
 
 /* Centrer horizontalement le timer */
