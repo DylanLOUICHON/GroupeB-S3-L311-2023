@@ -10,7 +10,7 @@
     <body>
         <div id="wrapper">
             <!-- Timer -->
-            <div class="inside" id="wrapper">
+            <div class="inside">
                 <div class="timer">
                     <span id="hours">00</span>
                     <span id="minutes">00</span>
