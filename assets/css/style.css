@@ -6,6 +6,9 @@ html, body {
   height: 100%;
   color: #F0F1D5;
   background-color: transparent;
+  
+  /* Désactivation du scroll */
+  overflow:hidden;  
 }
 
 #wrappr {
